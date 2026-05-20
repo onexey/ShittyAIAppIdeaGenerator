@@ -39,6 +39,106 @@
       "file": "niche-chaos.json",
       "slug": "niche-chaos",
       "title": "Niche Chaos"
+    },
+    {
+      "file": "finance-fever.json",
+      "slug": "finance-fever",
+      "title": "Finance Fever"
+    },
+    {
+      "file": "home-automation-atrocities.json",
+      "slug": "home-automation-atrocities",
+      "title": "Home Automation Atrocities"
+    },
+    {
+      "file": "dating-catastrophes.json",
+      "slug": "dating-catastrophes",
+      "title": "Dating Catastrophes"
+    },
+    {
+      "file": "education-industrial-complex.json",
+      "slug": "education-industrial-complex",
+      "title": "Education Industrial Complex"
+    },
+    {
+      "file": "food-delusions.json",
+      "slug": "food-delusions",
+      "title": "Food Delusions"
+    },
+    {
+      "file": "travel-nightmares.json",
+      "slug": "travel-nightmares",
+      "title": "Travel Nightmares"
+    },
+    {
+      "file": "pet-startups.json",
+      "slug": "pet-startups",
+      "title": "Pet Startups"
+    },
+    {
+      "file": "parenting-protocols.json",
+      "slug": "parenting-protocols",
+      "title": "Parenting Protocols"
+    },
+    {
+      "file": "sports-singularity.json",
+      "slug": "sports-singularity",
+      "title": "Sports Singularity"
+    },
+    {
+      "file": "retail-theater.json",
+      "slug": "retail-theater",
+      "title": "Retail Theater"
+    },
+    {
+      "file": "fashion-violations.json",
+      "slug": "fashion-violations",
+      "title": "Fashion Violations"
+    },
+    {
+      "file": "legal-grey-areas.json",
+      "slug": "legal-grey-areas",
+      "title": "Legal Grey Areas"
+    },
+    {
+      "file": "real-estate-hallucinations.json",
+      "slug": "real-estate-hallucinations",
+      "title": "Real Estate Hallucinations"
+    },
+    {
+      "file": "entertainment-abominations.json",
+      "slug": "entertainment-abominations",
+      "title": "Entertainment Abominations"
+    },
+    {
+      "file": "healthcare-adjacent.json",
+      "slug": "healthcare-adjacent",
+      "title": "Healthcare Adjacent"
+    },
+    {
+      "file": "religion-as-a-service.json",
+      "slug": "religion-as-a-service",
+      "title": "Religion as a Service"
+    },
+    {
+      "file": "gig-economy-experiments.json",
+      "slug": "gig-economy-experiments",
+      "title": "Gig Economy Experiments"
+    },
+    {
+      "file": "nightlife-optimization.json",
+      "slug": "nightlife-optimization",
+      "title": "Nightlife Optimization"
+    },
+    {
+      "file": "hobby-hypergrowth.json",
+      "slug": "hobby-hypergrowth",
+      "title": "Hobby Hypergrowth"
+    },
+    {
+      "file": "climate-anxiety-commerce.json",
+      "slug": "climate-anxiety-commerce",
+      "title": "Climate Anxiety Commerce"
     }
   ]
 }
