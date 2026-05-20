@@ -2,6 +2,8 @@
 
 A single-page static website that serves random terrible AI startup ideas.
 
+Live site: [shittyaiappidea.com](https://shittyaiappidea.com)
+
 It is built for GitHub Pages, has no build step, and loads its idea pool from JSON files under [`ShittyIdeas/`](ShittyIdeas/).
 
 ## What It Does
