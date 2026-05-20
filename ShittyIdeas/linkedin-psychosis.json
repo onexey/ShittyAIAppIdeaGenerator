@@ -1,59 +1,199 @@
 {
   "ideas": [
-    { "text": "An AI that turns your LinkedIn post into a humble brag without you having to do the humbling part yourself." },
-    { "text": "A bot that detects when you've opened LinkedIn without a plan and closes the tab after 30 seconds." },
-    { "text": "An app that scores your 'I'm excited to share' post by how excited anyone actually is." },
-    { "text": "A tool that converts a LinkedIn thought leadership post back into the 2-sentence email it started as." },
-    { "text": "An AI that detects when your headline is lying about what you actually do and suggests a more accurate one." },
-    { "text": "A bot that auto-comments 'This is so insightful!' on your connection's posts while you sleep." },
-    { "text": "An app that counts how many 'I learned 5 things' posts you've published and warns you before you become a content creator." },
-    { "text": "A tool that detects when a LinkedIn comment is fishing for a speaking gig and flags it for everyone." },
-    { "text": "An AI that generates a layoff announcement post that gets maximum engagement while minimizing actual information shared." },
-    { "text": "A bot that removes connections who have never interacted with a single post and sends them a formal notice of severance." },
-    { "text": "An app that detects when someone is clearly in an engagement pod and awards a badge of complicity." },
-    { "text": "A tool that rewrites your LinkedIn summary so it doesn't start with 'I am a passionate' anything." },
-    { "text": "An AI that estimates how long your viral LinkedIn post took to write versus how long it took to peak." },
-    { "text": "A bot that detects when a recruiter message is clearly a template and responds with an equally templated decline." },
-    { "text": "An app that replaces 'I'm honored to announce' with what you actually mean, which is 'I got a new job.'" },
-    { "text": "A tool that tracks how many endorsements you've received for skills you've never used and calls it a crisis." },
-    { "text": "An AI that detects a LinkedIn post starting with a one-word sentence for dramatic effect. Like this. And flags it." },
-    { "text": "A bot that estimates your follower count in 5 years if you keep posting at current frequency and warns you." },
-    { "text": "An app that blocks you from posting on LinkedIn for 24 hours after any career setback to protect you from yourself." },
-    { "text": "A tool that converts your job description on LinkedIn into what the actual day-to-day looks like." },
-    { "text": "An AI that detects when your LinkedIn post is really just a complaint formatted as professional advice." },
-    { "text": "A bot that sends connection requests on your behalf to anyone who liked a post you liked." },
-    { "text": "An app that translates 'open to opportunities' into a confidence-adjusted probability that you're actively applying." },
-    { "text": "A tool that automatically endorses people for skills the moment they endorse you, regardless of whether they have those skills." },
-    { "text": "An AI that detects when a 'thought leadership' post is really just a summary of a Wikipedia article." },
-    { "text": "A bot that alerts you when a former manager has viewed your profile 3 times in one week." },
-    { "text": "An app that writes your first LinkedIn post for people who've been on the platform since 2014 and never posted anything." },
-    { "text": "A tool that scores your profile photo on a scale of 'taken at a wedding' to 'actually meant for this purpose.'" },
-    { "text": "An AI that detects when you're posting inspirational content at 6am while your actual work is on fire." },
-    { "text": "A bot that identifies which connections congratulated you on your new job without reading what the job was." },
-    { "text": "An app that reads your last 10 posts and tells you what personality type LinkedIn thinks you're performing." },
-    { "text": "A tool that detects when a LinkedIn post ends with 'what do you think?' but the author doesn't respond to any replies." },
-    { "text": "An AI that writes your recommendations for people you like so you both don't have to experience the awkwardness." },
-    { "text": "A bot that catches you word-for-word plagiarizing a post structure that went viral 6 months ago." },
-    { "text": "An app that calculates how long your 'building in public' series will last before you quietly stop posting." },
-    { "text": "A tool that detects when you've tweaked your headline for the 11th time this month and locks it." },
-    { "text": "An AI that detects 'I failed and here's what I learned' posts and estimates whether the failure was real or brand content." },
-    { "text": "A bot that translates '3 lessons from my startup journey' into their equivalent business school case study." },
-    { "text": "An app that detects when you've spent 90 minutes crafting a post that got 4 reactions and offers condolences." },
-    { "text": "A tool that scores how much of your LinkedIn activity is research for a job you're too scared to apply for." },
-    { "text": "An AI that estimates the probability that a glowing recommendation was written by the person it's for." },
-    { "text": "A bot that detects when you're checking an ex-manager's LinkedIn instead of doing work and closes it firmly." },
-    { "text": "An app that converts your 15-slide LinkedIn carousel back into the tweet it was always trying to be." },
-    { "text": "A tool that tracks how many people viewed your profile after you liked their post and generates a surveillance report." },
-    { "text": "An AI that detects when 'let's connect' messages are from people who want something and never say what." },
-    { "text": "A bot that removes skills you haven't used in 5 years from your profile before a recruiter sees them." },
-    { "text": "An app that blocks you from accepting connections from people whose last activity was endorsing someone's skills in 2019." },
-    { "text": "A tool that detects when a job posting is real versus a LinkedIn ghost listing that has been up since the Obama administration." },
-    { "text": "An AI that monitors your competitor's LinkedIn page and sends you a weekly alert titled 'things to not copy.'" },
-    { "text": "A bot that detects when you've written a post about work-life balance at 1am and reschedules it for when it will be ironic instead of tragic." },
-    { "text": "An app that identifies the post type most likely to get you hired at your dream company and then tells you it involves dancing." },
-    { "text": "A tool that calculates the ROI of your personal brand relative to the hours spent maintaining it." },
-    { "text": "An AI that detects when your LinkedIn post is subtweeting your previous employer and suggests 'private journal entry' instead." },
-    { "text": "A bot that identifies all the connections you haven't spoken to since adding them and mass-archives them as acquaintances." },
-    { "text": "An app that prevents you from posting the same insight twice by cross-referencing your previous 400 posts." }
+    {
+      "text": "An AI that turns your LinkedIn post into a humble brag without you having to do the humbling part yourself."
+    },
+    {
+      "text": "A bot that detects when you've opened LinkedIn without a plan and closes the tab after 30 seconds."
+    },
+    {
+      "text": "An app that scores your 'I'm excited to share' post by how excited anyone actually is."
+    },
+    {
+      "text": "A tool that converts a LinkedIn thought leadership post back into the 2-sentence email it started as."
+    },
+    {
+      "text": "An AI that detects when your headline is lying about what you actually do and suggests a more accurate one."
+    },
+    {
+      "text": "A bot that auto-comments 'This is so insightful!' on your connection's posts while you sleep."
+    },
+    {
+      "text": "An app that counts how many 'I learned 5 things' posts you've published and warns you before you become a content creator."
+    },
+    {
+      "text": "A tool that detects when a LinkedIn comment is fishing for a speaking gig and flags it for everyone."
+    },
+    {
+      "text": "An AI that generates a layoff announcement post that gets maximum engagement while minimizing actual information shared."
+    },
+    {
+      "text": "A bot that removes connections who have never interacted with a single post and sends them a formal notice of severance."
+    },
+    {
+      "text": "An app that detects when someone is clearly in an engagement pod and awards a badge of complicity."
+    },
+    {
+      "text": "A tool that rewrites your LinkedIn summary so it doesn't start with 'I am a passionate' anything."
+    },
+    {
+      "text": "An AI that estimates how long your viral LinkedIn post took to write versus how long it took to peak."
+    },
+    {
+      "text": "A bot that detects when a recruiter message is clearly a template and responds with an equally templated decline."
+    },
+    {
+      "text": "An app that replaces 'I'm honored to announce' with what you actually mean, which is 'I got a new job.'"
+    },
+    {
+      "text": "A tool that tracks how many endorsements you've received for skills you've never used and calls it a crisis."
+    },
+    {
+      "text": "An AI that detects a LinkedIn post starting with a one-word sentence for dramatic effect. Like this. And flags it."
+    },
+    {
+      "text": "A bot that estimates your follower count in 5 years if you keep posting at current frequency and warns you."
+    },
+    {
+      "text": "An app that blocks you from posting on LinkedIn for 24 hours after any career setback to protect you from yourself."
+    },
+    {
+      "text": "A tool that converts your job description on LinkedIn into what the actual day-to-day looks like."
+    },
+    {
+      "text": "An AI that detects when your LinkedIn post is really just a complaint formatted as professional advice."
+    },
+    {
+      "text": "A bot that sends connection requests on your behalf to anyone who liked a post you liked."
+    },
+    {
+      "text": "An app that translates 'open to opportunities' into a confidence-adjusted probability that you're actively applying."
+    },
+    {
+      "text": "A tool that automatically endorses people for skills the moment they endorse you, regardless of whether they have those skills."
+    },
+    {
+      "text": "An AI that detects when a 'thought leadership' post is really just a summary of a Wikipedia article."
+    },
+    {
+      "text": "A bot that alerts you when a former manager has viewed your profile 3 times in one week."
+    },
+    {
+      "text": "An app that writes your first LinkedIn post for people who've been on the platform since 2014 and never posted anything."
+    },
+    {
+      "text": "A tool that scores your profile photo on a scale of 'taken at a wedding' to 'actually meant for this purpose.'"
+    },
+    {
+      "text": "An AI that detects when you're posting inspirational content at 6am while your actual work is on fire."
+    },
+    {
+      "text": "A bot that identifies which connections congratulated you on your new job without reading what the job was."
+    },
+    {
+      "text": "An app that reads your last 10 posts and tells you what personality type LinkedIn thinks you're performing."
+    },
+    {
+      "text": "A tool that detects when a LinkedIn post ends with 'what do you think?' but the author doesn't respond to any replies."
+    },
+    {
+      "text": "An AI that writes your recommendations for people you like so you both don't have to experience the awkwardness."
+    },
+    {
+      "text": "A bot that catches you word-for-word plagiarizing a post structure that went viral 6 months ago."
+    },
+    {
+      "text": "An app that calculates how long your 'building in public' series will last before you quietly stop posting."
+    },
+    {
+      "text": "A tool that detects when you've tweaked your headline for the 11th time this month and locks it."
+    },
+    {
+      "text": "An AI that detects 'I failed and here's what I learned' posts and estimates whether the failure was real or brand content."
+    },
+    {
+      "text": "A bot that translates '3 lessons from my startup journey' into their equivalent business school case study."
+    },
+    {
+      "text": "An app that detects when you've spent 90 minutes crafting a post that got 4 reactions and offers condolences."
+    },
+    {
+      "text": "A tool that scores how much of your LinkedIn activity is research for a job you're too scared to apply for."
+    },
+    {
+      "text": "An AI that estimates the probability that a glowing recommendation was written by the person it's for."
+    },
+    {
+      "text": "A bot that detects when you're checking an ex-manager's LinkedIn instead of doing work and closes it firmly."
+    },
+    {
+      "text": "An app that converts your 15-slide LinkedIn carousel back into the tweet it was always trying to be."
+    },
+    {
+      "text": "A tool that tracks how many people viewed your profile after you liked their post and generates a surveillance report."
+    },
+    {
+      "text": "An AI that detects when 'let's connect' messages are from people who want something and never say what."
+    },
+    {
+      "text": "A bot that removes skills you haven't used in 5 years from your profile before a recruiter sees them."
+    },
+    {
+      "text": "An app that blocks you from accepting connections from people whose last activity was endorsing someone's skills in 2019."
+    },
+    {
+      "text": "A tool that detects when a job posting is real versus a LinkedIn ghost listing that has been up since the Obama administration."
+    },
+    {
+      "text": "An AI that monitors your competitor's LinkedIn page and sends you a weekly alert titled 'things to not copy.'"
+    },
+    {
+      "text": "A bot that detects when you've written a post about work-life balance at 1am and reschedules it for when it will be ironic instead of tragic."
+    },
+    {
+      "text": "An app that identifies the post type most likely to get you hired at your dream company and then tells you it involves dancing."
+    },
+    {
+      "text": "A tool that calculates the ROI of your personal brand relative to the hours spent maintaining it."
+    },
+    {
+      "text": "An AI that detects when your LinkedIn post is subtweeting your previous employer and suggests 'private journal entry' instead."
+    },
+    {
+      "text": "A bot that identifies all the connections you haven't spoken to since adding them and mass-archives them as acquaintances."
+    },
+    {
+      "text": "An app that prevents you from posting the same insight twice by cross-referencing your previous 400 posts."
+    },
+    {
+      "text": "An app that detects when your LinkedIn 'I'm humbled to share' post is about something you bragged about in a group chat."
+    },
+    {
+      "text": "A tool that flags 'I learned a valuable lesson' posts and asks for the specific behavior change."
+    },
+    {
+      "text": "An AI that converts every LinkedIn carousel into the one-tweet thought it was bloated from."
+    },
+    {
+      "text": "A bot that detects when your profile photo is from a wedding and crops out the person you were with."
+    },
+    {
+      "text": "An app that translates 'open to new opportunities' into the actual layoff date."
+    },
+    {
+      "text": "A tool that detects when your LinkedIn 'manifesto' is just feedback you should have given internally."
+    },
+    {
+      "text": "An AI that flags when your post starts with a one-word sentence. For impact."
+    },
+    {
+      "text": "A bot that converts 'PSA to founders' into 'I am gently begging for engagement.'"
+    },
+    {
+      "text": "An app that detects when your work anniversary post is identical to last year's, with one number changed."
+    },
+    {
+      "text": "A tool that translates your headline into what your team would actually say you do."
+    }
   ]
 }
