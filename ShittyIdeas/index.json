@@ -14,6 +14,31 @@
       "file": "creator-schemes.json",
       "slug": "creator-schemes",
       "title": "Creator Schemes"
+    },
+    {
+      "file": "productivity-delusions.json",
+      "slug": "productivity-delusions",
+      "title": "Productivity Delusions"
+    },
+    {
+      "file": "wellness-spirals.json",
+      "slug": "wellness-spirals",
+      "title": "Wellness Spirals"
+    },
+    {
+      "file": "social-media-crimes.json",
+      "slug": "social-media-crimes",
+      "title": "Social Media Crimes"
+    },
+    {
+      "file": "civic-disasters.json",
+      "slug": "civic-disasters",
+      "title": "Civic Disasters"
+    },
+    {
+      "file": "niche-chaos.json",
+      "slug": "niche-chaos",
+      "title": "Niche Chaos"
     }
   ]
 }
