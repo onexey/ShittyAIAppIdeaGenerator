@@ -1,0 +1,175 @@
+{
+  "ideas": [
+    {
+      "text": "An AI that takes the Q1 plan and adjusts it for the 14 holidays, 3 sick days, and 2 surprise reorgs already visible."
+    },
+    {
+      "text": "A bot that detects when OKRs were written by leadership and handed down without asking the team if they're achievable."
+    },
+    {
+      "text": "An app that converts 'we need to be more ambitious' into a capacity analysis nobody asked for."
+    },
+    {
+      "text": "A tool that detects when the planning document is longer than the quarter and suggests editing it down to what matters."
+    },
+    {
+      "text": "An AI that identifies which last quarter's goals were quietly dropped and asks whether they'll appear again this quarter."
+    },
+    {
+      "text": "A bot that converts 3 competing strategic priorities into a ranked list so the team knows what to actually do first."
+    },
+    {
+      "text": "An app that detects when Q4 planning starts during Q3 delivery and calculates what that's costing in distraction."
+    },
+    {
+      "text": "A tool that tracks which dependencies were flagged in planning and which ones blew up exactly as predicted."
+    },
+    {
+      "text": "An AI that identifies which roadmap items have appeared in every quarter for 18 months and asks what's blocking them."
+    },
+    {
+      "text": "A bot that converts 'we'll figure it out as we go' into a risk register with owners and deadlines."
+    },
+    {
+      "text": "An app that detects when a plan requires 120% of available capacity and quietly finds the 20% that has to go."
+    },
+    {
+      "text": "A tool that flags when a quarterly goal has no measurable success criteria and sends it back for revision."
+    },
+    {
+      "text": "An AI that detects when two teams' plans have a dependency neither team knows about."
+    },
+    {
+      "text": "A bot that converts the CEO's all-hands vision into 3 things your specific team can actually do this quarter."
+    },
+    {
+      "text": "An app that tracks which sprint goals survived contact with reality and which ones became folklore."
+    },
+    {
+      "text": "A tool that detects when a stakeholder added scope after planning closed and logs the impact on the timeline."
+    },
+    {
+      "text": "An AI that monitors planning document edits in the final 48 hours and alerts when something significant changed quietly."
+    },
+    {
+      "text": "A bot that detects when a planning meeting produced no decisions and books a shorter one with a decision owner named."
+    },
+    {
+      "text": "An app that identifies how much of your team's quarterly capacity is already committed before planning even starts."
+    },
+    {
+      "text": "A tool that detects when an OKR key result is a project and not a measurable outcome and sends it back for rewriting."
+    },
+    {
+      "text": "An AI that estimates the probability a plan will survive the first two weeks of the quarter intact."
+    },
+    {
+      "text": "A bot that maps every cross-team dependency in the plan and asks whether each one has been verbally confirmed."
+    },
+    {
+      "text": "An app that detects when your team plans for 40 story points and historically ships 22 and adjusts accordingly."
+    },
+    {
+      "text": "A tool that identifies which planning assumptions are most likely to be wrong by the end of week 4."
+    },
+    {
+      "text": "An AI that detects when the plan looks great on paper and the team has privately agreed it's not happening."
+    },
+    {
+      "text": "A bot that generates a one-page summary of the quarterly plan that an engineer could actually use on a Tuesday."
+    },
+    {
+      "text": "An app that detects when 'we need to move fast this quarter' is said the same week headcount is frozen."
+    },
+    {
+      "text": "A tool that logs all mid-quarter scope changes, who requested them, and what they displaced from the original plan."
+    },
+    {
+      "text": "An AI that converts a strategic roadmap into 3 things each team needs to do differently starting Monday."
+    },
+    {
+      "text": "A bot that detects when a plan is heavy on Q1 goals and suspiciously light on Q4 commitments."
+    },
+    {
+      "text": "An app that monitors planning document version history and surfaces what changed between the draft and the approved version."
+    },
+    {
+      "text": "A tool that converts 'tiger team' into a real project plan with a real owner and a real end date."
+    },
+    {
+      "text": "An AI that detects when a planning session has 20 attendees and produces a plan that could have been written by 3."
+    },
+    {
+      "text": "A bot that identifies when the same initiative was prioritized 3 quarters in a row without ever starting."
+    },
+    {
+      "text": "An app that detects when a quarterly theme is just a rebrand of last quarter's theme with different colors."
+    },
+    {
+      "text": "A tool that generates a realistic midpoint forecast for the quarter and sends it to leadership whether they asked or not."
+    },
+    {
+      "text": "An AI that detects when a team's morale score dropped right after planning was published and asks why."
+    },
+    {
+      "text": "A bot that converts every 'we'll revisit this next quarter' into a calendared task so it actually gets revisited."
+    },
+    {
+      "text": "An app that identifies which goals in the plan are driven by customer need versus internal politics."
+    },
+    {
+      "text": "A tool that detects when an OKR was written to be achievable rather than ambitious and offers a stretch version."
+    },
+    {
+      "text": "An AI that identifies the one decision that, if made now, would unblock 40% of the quarterly plan."
+    },
+    {
+      "text": "A bot that detects when planning ended without aligning on what done looks like for any of the goals."
+    },
+    {
+      "text": "An app that tracks planning cycle length over time and alerts when it's growing faster than the company's complexity warrants."
+    },
+    {
+      "text": "A tool that converts a leadership vision deck into the operational questions the team needs answered before they can execute it."
+    },
+    {
+      "text": "An AI that detects when a quarterly goal requires a headcount that hasn't been approved yet and flags it."
+    },
+    {
+      "text": "A bot that generates a realistic Q3 plan in the first week of Q3 because the official plan won't be ready until week 3."
+    },
+    {
+      "text": "An app that detects when a planning retro has been skipped for 4 consecutive quarters and reschedules one with teeth."
+    },
+    {
+      "text": "A tool that estimates how many slides the quarterly business review deck will be based on how the quarter went."
+    },
+    {
+      "text": "An AI that identifies which team's plans are most likely to cause problems for your team and flags it for a conversation."
+    },
+    {
+      "text": "A bot that detects when a plan has no buffer for the unexpected and adds a named contingency owner."
+    },
+    {
+      "text": "An app that converts the planning document's passive voice into active ownership by putting a name on every commitment."
+    },
+    {
+      "text": "An AI that detects when a planning session is being used to avoid starting the actual work."
+    },
+    {
+      "text": "A bot that converts every 'to be determined' in a plan into a deadline for when it needs to be determined."
+    },
+    {
+      "text": "An app that tracks which quarterly goals were still being discussed in week 11 of a 13-week quarter."
+    },
+    {
+      "text": "A tool that identifies the one dependency that will break the entire plan and sends it to the right person now."
+    },
+    {
+      "text": "An AI that converts a strategy deck into a to-do list so someone can actually start on Monday."
+    },
+    {
+      "text": "A bot that detects when your quarterly planning meeting produces a list of things to plan rather than a plan."
+    }
+  ]
+}

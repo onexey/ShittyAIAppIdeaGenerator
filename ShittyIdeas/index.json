@@ -239,6 +239,96 @@
       "file": "conspiracy-commerce.json",
       "slug": "conspiracy-commerce",
       "title": "Conspiracy Commerce"
+    },
+    {
+      "file": "meeting-room-theology.json",
+      "slug": "meeting-room-theology",
+      "title": "Meeting Room Theology"
+    },
+    {
+      "file": "performance-review-hell.json",
+      "slug": "performance-review-hell",
+      "title": "Performance Review Hell"
+    },
+    {
+      "file": "slack-crimes.json",
+      "slug": "slack-crimes",
+      "title": "Slack Crimes"
+    },
+    {
+      "file": "linkedin-psychosis.json",
+      "slug": "linkedin-psychosis",
+      "title": "LinkedIn Psychosis"
+    },
+    {
+      "file": "remote-work-hallucinations.json",
+      "slug": "remote-work-hallucinations",
+      "title": "Remote Work Hallucinations"
+    },
+    {
+      "file": "corporate-jargon-singularity.json",
+      "slug": "corporate-jargon-singularity",
+      "title": "Corporate Jargon Singularity"
+    },
+    {
+      "file": "zoom-fatigue-monetization.json",
+      "slug": "zoom-fatigue-monetization",
+      "title": "Zoom Fatigue Monetization"
+    },
+    {
+      "file": "inbox-zero-cult.json",
+      "slug": "inbox-zero-cult",
+      "title": "Inbox Zero Cult"
+    },
+    {
+      "file": "reorg-survival-kit.json",
+      "slug": "reorg-survival-kit",
+      "title": "Reorg Survival Kit"
+    },
+    {
+      "file": "promotion-hunger-games.json",
+      "slug": "promotion-hunger-games",
+      "title": "Promotion Hunger Games"
+    },
+    {
+      "file": "open-office-warfare.json",
+      "slug": "open-office-warfare",
+      "title": "Open Office Warfare"
+    },
+    {
+      "file": "expense-report-theater.json",
+      "slug": "expense-report-theater",
+      "title": "Expense Report Theater"
+    },
+    {
+      "file": "corporate-wellness-crimes.json",
+      "slug": "corporate-wellness-crimes",
+      "title": "Corporate Wellness Crimes"
+    },
+    {
+      "file": "quarterly-planning-chaos.json",
+      "slug": "quarterly-planning-chaos",
+      "title": "Quarterly Planning Chaos"
+    },
+    {
+      "file": "all-hands-theater.json",
+      "slug": "all-hands-theater",
+      "title": "All-Hands Theater"
+    },
+    {
+      "file": "one-on-one-theater.json",
+      "slug": "one-on-one-theater",
+      "title": "One-on-One Theater"
+    },
+    {
+      "file": "hiring-process-horrors.json",
+      "slug": "hiring-process-horrors",
+      "title": "Hiring Process Horrors"
+    },
+    {
+      "file": "culture-deck-fiction.json",
+      "slug": "culture-deck-fiction",
+      "title": "Culture Deck Fiction"
     }
   ]
 }

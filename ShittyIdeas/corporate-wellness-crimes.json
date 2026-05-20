@@ -1,0 +1,175 @@
+{
+  "ideas": [
+    {
+      "text": "An AI that detects when a company's wellness program costs less per employee than one therapy session."
+    },
+    {
+      "text": "A bot that translates 'we care about your wellbeing' into what the company actually changed structurally to prove it."
+    },
+    {
+      "text": "An app that detects when a step challenge leaderboard is causing more stress than the stress it was designed to reduce."
+    },
+    {
+      "text": "A tool that calculates how many more emails you received this year than last year and calls it a burnout risk."
+    },
+    {
+      "text": "An AI that detects when a 'mental health day' policy requires you to disclose the reason and flags it for legal review."
+    },
+    {
+      "text": "A bot that converts 'self-care is your responsibility' into a list of structural things the company could fix instead."
+    },
+    {
+      "text": "An app that monitors when your PTO request will be subtly judged by your manager based on the timing."
+    },
+    {
+      "text": "A tool that detects when 'unlimited PTO' results in less vacation taken than the previous capped policy."
+    },
+    {
+      "text": "An AI that counts how many wellness initiatives were launched this year and checks how many underlying stressors were removed."
+    },
+    {
+      "text": "A bot that detects when a mindfulness app subscription is offered while headcount is being reduced and generates a comparison."
+    },
+    {
+      "text": "An app that audits whether employees feel safe enough to actually use the EAP benefits the company pays for."
+    },
+    {
+      "text": "A tool that detects when a company's burnout prevention webinar is scheduled during the busiest week of the quarter."
+    },
+    {
+      "text": "An AI that monitors your work hours and sends an automated message to your manager when you've been online for 11 hours."
+    },
+    {
+      "text": "A bot that detects when your 'no meeting Friday' was colonized by an all-hands and files a grievance."
+    },
+    {
+      "text": "An app that converts a wellness survey into a structured request for the one thing that would actually make a difference."
+    },
+    {
+      "text": "A tool that identifies which wellness perk is most used and funds more of it instead of guessing what employees need."
+    },
+    {
+      "text": "An AI that detects when a 'culture of balance' company expects responses within 2 hours after 6pm."
+    },
+    {
+      "text": "A bot that detects when the same employee has declined vacation 4 times for 'coverage reasons' and assigns backup."
+    },
+    {
+      "text": "An app that monitors your notification volume and recommends a communication cleanse before you need a real one."
+    },
+    {
+      "text": "A tool that detects when a company is discussing employee burnout in a meeting without having cancelled any meetings first."
+    },
+    {
+      "text": "An AI that detects when a 'meditation room' was installed in the same month as a 20% productivity target increase."
+    },
+    {
+      "text": "A bot that identifies which workplace stressors are mentioned most in exit interviews and have not been addressed."
+    },
+    {
+      "text": "An app that detects when a manager's check-in about your wellbeing is actually a check-in about your project status."
+    },
+    {
+      "text": "A tool that calculates how many hours of personal time you donated to the company this year in the form of unanswered-but-seen Slacks."
+    },
+    {
+      "text": "An AI that detects when 'resilience training' is being offered as a substitute for fixing the thing requiring resilience."
+    },
+    {
+      "text": "A bot that detects when you've been on a PIP and a wellness program at the same time and flags the contradiction."
+    },
+    {
+      "text": "An app that monitors all the wellness promises in your offer letter and checks which ones materialized."
+    },
+    {
+      "text": "A tool that estimates how much the company saved in healthcare costs from your unreported stress-related conditions."
+    },
+    {
+      "text": "An AI that detects when a 'work-life balance' company posts an Instagram about an employee working at midnight."
+    },
+    {
+      "text": "A bot that detects when a wellness benefit is designed for single people in their 20s at a company with mostly working parents."
+    },
+    {
+      "text": "An app that monitors when your workload has silently doubled since the last round of layoffs without a compensation adjustment."
+    },
+    {
+      "text": "A tool that converts every company-sponsored wellness workshop into the structural change that would have made it unnecessary."
+    },
+    {
+      "text": "An AI that detects when the wellness committee's biggest initiative this year is a step challenge during crunch month."
+    },
+    {
+      "text": "A bot that monitors your calendar density and sends a weekly mental load score so you can see the creep in real time."
+    },
+    {
+      "text": "An app that detects when 'we trust our people' is followed by a proximity badge access report sent to management."
+    },
+    {
+      "text": "A tool that detects when mandatory fun is happening during a week when morale is already negative."
+    },
+    {
+      "text": "An AI that identifies the specific meeting that is the source of 80% of your team's collective stress and cancels it."
+    },
+    {
+      "text": "A bot that detects when a mental health awareness email was sent by someone who rejected a flexible hours request last week."
+    },
+    {
+      "text": "An app that monitors whether the people attending your company's wellness events are the ones who need them most."
+    },
+    {
+      "text": "A tool that detects when a benefits package was last updated and compares it to current employee needs."
+    },
+    {
+      "text": "An AI that generates a real vacation auto-reply that sets realistic expectations instead of promising to catch up on Monday."
+    },
+    {
+      "text": "A bot that detects when a 'disconnecting over the holiday' email is immediately followed by a Slack from the same sender."
+    },
+    {
+      "text": "An app that monitors the number of consecutive days you've started work before 8am and sends a trend alert."
+    },
+    {
+      "text": "A tool that detects when a company is cutting the wellness budget and adding the word 'intentional' to its culture messaging."
+    },
+    {
+      "text": "An AI that calculates how much the company spent on office snacks versus mental health support per employee per year."
+    },
+    {
+      "text": "A bot that identifies which wellness initiatives are used by the same 12 people every time and designs something for everyone else."
+    },
+    {
+      "text": "An app that detects when your work schedule is structurally incompatible with any of the wellness habits being recommended."
+    },
+    {
+      "text": "A tool that generates a request for 1 additional day of PTO per quarter, supported by your overtime data."
+    },
+    {
+      "text": "An AI that detects when you sent a work email from a vacation location and sends you a disappointed notification."
+    },
+    {
+      "text": "A bot that detects when the company's annual wellness survey produced no visible action and tracks the year-over-year pattern."
+    },
+    {
+      "text": "An app that monitors whether the company's stated commitment to wellbeing is reflected in actual manager behavior."
+    },
+    {
+      "text": "An app that converts a company's wellness budget into the salary increase it could have funded instead."
+    },
+    {
+      "text": "A bot that detects when your company added a meditation cushion to the break room the same week deadlines doubled."
+    },
+    {
+      "text": "A tool that tracks when 'self-care' messaging increases in correlation with workload peaks."
+    },
+    {
+      "text": "An AI that detects when a company's burnout prevention webinar is run by someone who sends emails at midnight."
+    },
+    {
+      "text": "An app that converts every company wellness initiative into the structural fix that would have made it unnecessary."
+    },
+    {
+      "text": "A bot that detects when you've used 0 of your wellness benefit by November and spends it on your behalf."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "ideas": [
+    {
+      "text": "An AI that reads your company values deck and tells you which ones are aspirations and which ones are currently true."
+    },
+    {
+      "text": "A bot that counts how many approval layers are required for a $200 decision at a company that values 'trust.'"
+    },
+    {
+      "text": "An app that detects when 'unlimited PTO' at your company averages fewer days than limited PTO did at your last job."
+    },
+    {
+      "text": "A tool that converts 'we're like a family' into its operational implications for calling out sick."
+    },
+    {
+      "text": "An AI that detects when the culture deck hasn't been updated since the company had 12 employees."
+    },
+    {
+      "text": "A bot that counts how many times the word 'authentic' appears in a document that is clearly not."
+    },
+    {
+      "text": "An app that detects when a company's stated values and a visible recent decision are pointing in opposite directions."
+    },
+    {
+      "text": "A tool that evaluates whether the 'best place to work' award required employees to fill out a survey or the award just happened."
+    },
+    {
+      "text": "An AI that translates 'we move fast' into the average time a decision takes at this company from proposal to approval."
+    },
+    {
+      "text": "A bot that detects when the culture deck is used in recruiting but never referenced internally."
+    },
+    {
+      "text": "An app that identifies which company values are referenced in performance reviews and which ones exist only in the lobby."
+    },
+    {
+      "text": "A tool that detects when 'we trust our employees' is followed by monitoring software installed on work laptops."
+    },
+    {
+      "text": "An AI that converts a company's values into a quiz and tests whether the leadership team passes it."
+    },
+    {
+      "text": "A bot that detects when 'fail fast' is being cited to justify a failure that took 18 months to become visible."
+    },
+    {
+      "text": "An app that counts how many times 'transparency' is mentioned in a company where the salary bands are still secret."
+    },
+    {
+      "text": "A tool that generates the version of the culture deck that reflects what employees actually experience."
+    },
+    {
+      "text": "An AI that detects when a company's diversity commitment hasn't resulted in a change to the leadership page in 3 years."
+    },
+    {
+      "text": "A bot that monitors how many culture initiatives are running simultaneously and whether any of them have metrics."
+    },
+    {
+      "text": "An app that detects when a values workshop produced no change and was immediately followed by another values workshop."
+    },
+    {
+      "text": "A tool that identifies which company value is most frequently violated in practice based on employee survey language."
+    },
+    {
+      "text": "An AI that converts 'we're customer-obsessed' into a test: how long does it take to reach a human when something breaks?"
+    },
+    {
+      "text": "A bot that detects when a company's all-hands culture speech was almost word-for-word the same as last year's."
+    },
+    {
+      "text": "An app that tracks the gap between what a company says in its employer branding and what employees say in exit interviews."
+    },
+    {
+      "text": "A tool that detects when a culture initiative was launched to manage a PR problem rather than address an employee one."
+    },
+    {
+      "text": "An AI that translates 'we're mission-driven' into the specific trade-off between mission and compensation you're about to make."
+    },
+    {
+      "text": "A bot that detects when a company added 'inclusive' to its values the same week a discrimination complaint was filed."
+    },
+    {
+      "text": "An app that evaluates whether the 'flat hierarchy' your company describes matches its actual decision-making structure."
+    },
+    {
+      "text": "A tool that detects when a company's culture is described using the word 'vibes' by more than 40% of employees in surveys."
+    },
+    {
+      "text": "An AI that reads a company's values and checks whether any of them are legally or operationally constrained from being true."
+    },
+    {
+      "text": "A bot that monitors whether 'psychological safety' is mentioned more often in meetings than it is modeled in them."
+    },
+    {
+      "text": "An app that detects when a company posts about work-life balance and then sends a company-wide email at 7pm on a Friday."
+    },
+    {
+      "text": "A tool that converts the employer branding page into a Glassdoor rating prediction based on the promises made."
+    },
+    {
+      "text": "An AI that detects when a company's 'no jerks' policy is enforced differently depending on the jerk's seniority."
+    },
+    {
+      "text": "A bot that translates 'we're a learning organization' into when the company last changed something based on feedback."
+    },
+    {
+      "text": "An app that detects when a company's values redesign produced values that are nearly identical to the previous ones."
+    },
+    {
+      "text": "A tool that identifies how many culture-related initiatives were launched this year by a company that fired an HR team."
+    },
+    {
+      "text": "An AI that detects when 'we celebrate failure' is used by a company where nobody has been publicly rewarded for failing."
+    },
+    {
+      "text": "A bot that converts 'generous equity package' into the expected value under 3 realistic exit scenarios."
+    },
+    {
+      "text": "An app that detects when a company promotes values of 'ownership' but requires 3 approvals to send an external email."
+    },
+    {
+      "text": "A tool that identifies when the culture deck was written by a consultant who spent 2 days with leadership and left."
+    },
+    {
+      "text": "An AI that converts 'we believe in work-life integration' into what that means at 9pm on a Sunday."
+    },
+    {
+      "text": "A bot that detects when a company's wellness program costs less annually than one month of the CEO's total compensation."
+    },
+    {
+      "text": "An app that monitors whether 'bring your whole self to work' extends to people who are visibly unhappy about something."
+    },
+    {
+      "text": "A tool that detects when a company invests more in employer branding than in the employee experience being branded."
+    },
+    {
+      "text": "An AI that converts a culture deck into the set of behaviors that are actually rewarded in performance reviews."
+    },
+    {
+      "text": "A bot that detects when 'collaborative culture' means all decisions go through one person before moving forward."
+    },
+    {
+      "text": "An app that identifies which culture promises in the offer letter went undelivered and when the pattern started."
+    },
+    {
+      "text": "A tool that evaluates whether a company's 'zero tolerance' policy has ever resulted in a zero-tolerance outcome at a senior level."
+    },
+    {
+      "text": "An AI that detects when a company says 'we're building something special' and checks whether the tenure data agrees."
+    },
+    {
+      "text": "A bot that detects when the company's stated values are used to explain a layoff that they're also the reason for."
+    },
+    {
+      "text": "An app that generates the one honest sentence that should replace the first page of any company culture deck."
+    },
+    {
+      "text": "An AI that reads a startup's culture page and estimates how many of those things are still true after Series B."
+    },
+    {
+      "text": "A bot that detects when 'we're changing the world' is the company's excuse for not changing the comp structure."
+    },
+    {
+      "text": "An app that detects when a company's values include 'growth mindset' but performance reviews penalize mistakes."
+    },
+    {
+      "text": "A tool that generates the culture doc the company should have written based on what it actually rewards."
+    },
+    {
+      "text": "An AI that converts 'we're building the future' into a realistic description of what your day will look like in week 3."
+    },
+    {
+      "text": "A bot that detects when a culture score improved while headcount dropped and asks who was left to fill out the survey."
+    }
+  ]
+}

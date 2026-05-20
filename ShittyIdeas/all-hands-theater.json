@@ -1,0 +1,175 @@
+{
+  "ideas": [
+    {
+      "text": "An AI that translates 'challenging quarter' into the specific number that made it challenging."
+    },
+    {
+      "text": "A bot that detects when an all-hands announcement requires 4 slides to say what 1 sentence would have covered."
+    },
+    {
+      "text": "An app that measures the gap between what was promised at last quarter's all-hands and what was delivered."
+    },
+    {
+      "text": "A tool that detects when the anonymous Q&A moderator skipped the third most-upvoted question and names it."
+    },
+    {
+      "text": "An AI that converts 'we're excited about what's ahead' into a probability distribution of things that might be ahead."
+    },
+    {
+      "text": "A bot that detects when a company value is cited in an all-hands slide while a behavior contradicting it was visible last week."
+    },
+    {
+      "text": "An app that tracks all-hands viewer dropout rate in real time and displays it to the presenter at the 15-minute mark."
+    },
+    {
+      "text": "A tool that identifies how many times 'our people are our greatest asset' has been said per headcount reduction."
+    },
+    {
+      "text": "An AI that detects when a live product demo is about to fail and offers a pre-recorded backup with 30 seconds' notice."
+    },
+    {
+      "text": "A bot that monitors the Slack channel during an all-hands and summarizes employee sentiment in real time for HR."
+    },
+    {
+      "text": "An app that detects when an all-hands Q&A answer was clearly prepared in advance and marks it as scripted."
+    },
+    {
+      "text": "A tool that converts a 60-slide all-hands deck into the 8 things employees actually needed to know."
+    },
+    {
+      "text": "An AI that detects when leadership has scheduled an all-hands on a day guaranteed to ensure low attendance."
+    },
+    {
+      "text": "A bot that generates a post-all-hands summary for people who attended and still have no idea what changed."
+    },
+    {
+      "text": "An app that detects when the same question has been asked at 3 consecutive all-hands and still hasn't been answered."
+    },
+    {
+      "text": "A tool that identifies which executives' all-hands sections consistently cause employee confusion and suggests brevity."
+    },
+    {
+      "text": "An AI that translates 'we're all in this together' into whether that includes the executive bonus structure."
+    },
+    {
+      "text": "A bot that detects when news shared at an all-hands was already known by 30% of attendees through the grapevine."
+    },
+    {
+      "text": "An app that monitors camera reactions during an all-hands and alerts the presenter when the audience looks like they're in a waiting room."
+    },
+    {
+      "text": "A tool that detects when an all-hands was called to share good news but the energy reads as defensive."
+    },
+    {
+      "text": "An AI that converts all-hands presentation language into what the company would say if it weren't trying to manage perception."
+    },
+    {
+      "text": "A bot that counts how many action items were promised at the all-hands and checks how many were completed before the next one."
+    },
+    {
+      "text": "An app that detects when an all-hands included a values exercise that most employees will have forgotten by Monday."
+    },
+    {
+      "text": "A tool that identifies which business unit's update was most obviously added for political balance rather than relevance."
+    },
+    {
+      "text": "An AI that detects when an all-hands slide mentions headcount growth in a quarter when 8 people were quietly let go."
+    },
+    {
+      "text": "A bot that detects when the CEO's opening remarks run 22 minutes and the entire rest of the company gets 8."
+    },
+    {
+      "text": "An app that converts the all-hands applause slide into a list of things employees actually want to applaud."
+    },
+    {
+      "text": "A tool that detects when a new executive's introduction takes longer than the update on the company's actual situation."
+    },
+    {
+      "text": "An AI that generates 3 smart all-hands questions for employees who want to seem engaged without revealing anything."
+    },
+    {
+      "text": "A bot that detects when the all-hands was clearly designed to prevent panic and estimates whether it worked."
+    },
+    {
+      "text": "An app that tracks which initiatives announced at all-hands events were still being discussed 6 months later."
+    },
+    {
+      "text": "A tool that measures how much of the all-hands was dedicated to the past versus the future versus the actual right now."
+    },
+    {
+      "text": "An AI that detects when a company rebrands its slide template for an all-hands right after something went wrong."
+    },
+    {
+      "text": "A bot that identifies when an all-hands announcement was made to preempt a press article that's about to drop."
+    },
+    {
+      "text": "An app that monitors the Glassdoor review spike that follows every company all-hands and correlates it with the topics covered."
+    },
+    {
+      "text": "A tool that detects when the innovation update is about a feature that was due 14 months ago."
+    },
+    {
+      "text": "An AI that converts all-hands 'learnings' slides into a list of things the company will probably do again."
+    },
+    {
+      "text": "A bot that detects when the all-hands is being recorded and the presenter's energy visibly changes."
+    },
+    {
+      "text": "An app that counts how many people submitted anonymous questions and how many were actually read aloud."
+    },
+    {
+      "text": "A tool that detects when an all-hands ended without telling anyone what they should do differently starting tomorrow."
+    },
+    {
+      "text": "An AI that predicts whether the all-hands will be followed by a Slack message asking 'wait what did that mean.'"
+    },
+    {
+      "text": "A bot that detects when a company milestone is being celebrated at the same moment its main users are unhappy."
+    },
+    {
+      "text": "An app that converts the all-hands recording link into a 5-minute summary with timestamps for the two parts that mattered."
+    },
+    {
+      "text": "A tool that identifies which departments got name-dropped at the all-hands and which ones were invisible again."
+    },
+    {
+      "text": "An AI that detects when a 'town hall format' all-hands has a moderator filtering out questions in real time."
+    },
+    {
+      "text": "A bot that tracks how many all-hands events your company has held this year and what percentage produced a visible action."
+    },
+    {
+      "text": "An app that sends you the 3 things you should know from the all-hands you missed without having to watch the recording."
+    },
+    {
+      "text": "A tool that detects when an all-hands was scheduled 3 days after a competitor announcement and reads the correlation."
+    },
+    {
+      "text": "An AI that estimates how much of the all-hands energy came from genuine confidence versus communications coaching."
+    },
+    {
+      "text": "A bot that detects when 'we'll share more as we learn more' is being used to avoid sharing something that is already known."
+    },
+    {
+      "text": "An app that generates the Slack message your team will inevitably send each other during the all-hands, preemptively."
+    },
+    {
+      "text": "An AI that detects when 'we'll share more details soon' has been said for 3 consecutive all-hands and files a status request."
+    },
+    {
+      "text": "A bot that generates a bingo card for your company's all-hands based on the phrases used in the last 3 of them."
+    },
+    {
+      "text": "An app that detects when the all-hands was clearly planned for 4 hours but has 90 minutes of actual content."
+    },
+    {
+      "text": "A tool that tracks which all-hands slide got the most questions and infers what leadership should have addressed directly."
+    },
+    {
+      "text": "An AI that monitors energy levels at an all-hands via camera engagement and shows the drop-off point to the AV team."
+    },
+    {
+      "text": "A bot that converts an all-hands recording into a 3-paragraph summary for everyone who had a conflict and is pretending they didn't."
+    }
+  ]
+}
