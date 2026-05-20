@@ -3,36 +3,74 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Redirecting...</title>
+    <title>404 – Shitty AI App Idea Generator</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" sizes="any" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Bricolage+Grotesque:wght@500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
     <script>
       (() => {
         const routeSegment = "/idea/";
         const { pathname, search, hash, origin } = window.location;
         const routeIndex = pathname.indexOf(routeSegment);
-        const basePath =
-          routeIndex >= 0
-            ? pathname.slice(0, routeIndex + 1)
-            : pathname.replace(/[^/]*$/, "") || "/";
-        const redirectUrl = new URL(basePath, origin);
 
         if (routeIndex >= 0) {
+          // Handle /idea/ SPA routing — redirect to main page with ?idea= param
+          const basePath = pathname.slice(0, routeIndex + 1);
+          const redirectUrl = new URL(basePath, origin);
           const ideaId = pathname.slice(routeIndex + routeSegment.length);
-
           if (ideaId) {
             redirectUrl.searchParams.set("idea", decodeURIComponent(ideaId));
           }
+          if (search && !redirectUrl.search) redirectUrl.search = search;
+          redirectUrl.hash = hash;
+          window.location.replace(redirectUrl.toString());
         }
-
-        if (search && !redirectUrl.search) {
-          redirectUrl.search = search;
-        }
-
-        redirectUrl.hash = hash;
-        window.location.replace(redirectUrl.toString());
+        // Otherwise: fall through and show the styled 404 page
       })();
     </script>
   </head>
   <body>
-    <p>Redirecting to fresh nonsense...</p>
+    <div class="noise" aria-hidden="true"></div>
+    <main class="page-shell">
+      <section class="hero-card">
+        <h1>404</h1>
+
+        <div class="idea-panel" aria-live="polite">
+          <blockquote class="idea-text">
+            This page doesn't exist, which is honestly a better idea than most
+            of the ones on this site.
+          </blockquote>
+        </div>
+
+        <div class="actions">
+          <a href="./" class="shuffle-button" role="button">
+            Give me a shitty idea instead
+          </a>
+        </div>
+
+        <p class="meta-links">
+          <a
+            class="github-pill"
+            href="https://github.com/onexey/ShittyAIAppIdeaGenerator"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="View source on GitHub"
+          >
+            <svg class="github-pill__icon" viewBox="0 0 16 16" aria-hidden="true">
+              <path
+                fill="currentColor"
+                d="M8 0C3.58 0 0 3.67 0 8.2c0 3.63 2.29 6.7 5.47 7.79.4.08.55-.18.55-.39 0-.19-.01-.83-.01-1.5-2.01.38-2.53-.51-2.69-.98-.09-.24-.48-.98-.82-1.18-.28-.16-.68-.57-.01-.58.63-.01 1.08.59 1.23.84.72 1.24 1.87.89 2.33.68.07-.54.28-.89.5-1.09-1.78-.21-3.64-.92-3.64-4.11 0-.91.31-1.66.82-2.24-.08-.21-.36-1.06.08-2.21 0 0 .67-.22 2.2.85A7.34 7.34 0 0 1 8 3.72c.68 0 1.37.09 2.01.27 1.53-1.07 2.2-.85 2.2-.85.44 1.15.16 2 .08 2.21.51.58.82 1.32.82 2.24 0 3.2-1.87 3.9-3.65 4.11.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.19 0 .21.14.47.55.39A8.19 8.19 0 0 0 16 8.2C16 3.67 12.42 0 8 0Z"
+              />
+            </svg>
+            <span class="github-pill__label">GitHub</span>
+          </a>
+        </p>
+      </section>
+    </main>
   </body>
 </html>
