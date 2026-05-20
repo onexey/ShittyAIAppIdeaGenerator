@@ -227,8 +227,7 @@ button:focus-visible {
 }
 
 .idea-panel.is-transitioning .idea-text {
-  opacity: 0;
-  transform: translateY(10px);
+  animation: idea-swap 220ms ease;
 }
 
 .idea-text {
@@ -265,6 +264,18 @@ button:focus-visible {
   from {
     opacity: 0;
     transform: translateY(24px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes idea-swap {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
   }
 
   to {

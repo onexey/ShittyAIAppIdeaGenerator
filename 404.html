@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting...</title>
+    <script>
+      (() => {
+        const routeSegment = "/idea/";
+        const { pathname, search, hash, origin } = window.location;
+        const routeIndex = pathname.indexOf(routeSegment);
+        const basePath =
+          routeIndex >= 0
+            ? pathname.slice(0, routeIndex + 1)
+            : pathname.replace(/[^/]*$/, "") || "/";
+        const redirectUrl = new URL(basePath, origin);
+
+        if (routeIndex >= 0) {
+          const ideaId = pathname.slice(routeIndex + routeSegment.length);
+
+          if (ideaId) {
+            redirectUrl.searchParams.set("idea", decodeURIComponent(ideaId));
+          }
+        }
+
+        if (search && !redirectUrl.search) {
+          redirectUrl.search = search;
+        }
+
+        redirectUrl.hash = hash;
+        window.location.replace(redirectUrl.toString());
+      })();
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to fresh nonsense...</p>
+  </body>
+</html>

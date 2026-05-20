@@ -9,15 +9,17 @@ It is built for GitHub Pages, has no build step, and loads its idea pool from JS
 ## What It Does
 
 - Shows one random shitty AI app idea on each visit.
+- Rewrites the URL to the current idea so every pitch has a shareable direct link.
 - Avoids immediately repeating the last idea shown in the same browser.
 - Loads ideas from multiple JSON files so the content pool can grow without turning into one giant file.
-- Works as a plain static site: HTML, CSS, JavaScript, JSON, and a favicon.
+- Works as a plain static site: HTML, CSS, JavaScript, JSON, a GitHub Pages fallback page, and a favicon.
 
 ## Project Structure
 
 ```text
 .
 ├── index.html
+├── 404.html
 ├── styles.css
 ├── script.js
 ├── favicon.svg
@@ -32,6 +34,7 @@ It is built for GitHub Pages, has no build step, and loads its idea pool from JS
 Key files:
 
 - [`index.html`](index.html) is the page shell.
+- [`404.html`](404.html) redirects shared deep links back into the single-page app on GitHub Pages.
 - [`styles.css`](styles.css) handles the visual design.
 - [`script.js`](script.js) loads the idea files and picks a random idea.
 - [`ShittyIdeas/index.json`](ShittyIdeas/index.json) is the manifest. If a JSON file is not listed there, the site will not load it.
@@ -54,6 +57,8 @@ http://localhost:4173
 ## How Ideas Work
 
 The site loads [`ShittyIdeas/index.json`](ShittyIdeas/index.json), reads the list of registered idea files, fetches each one, flattens all ideas into one pool, and picks a random entry.
+
+Each idea gets a stable client-side URL at `/?idea=<idea-id>`. On the first visit to `/`, the app picks a random idea and immediately rewrites the address bar to that URL without a full page reload. Shared links work on plain static hosting because they do not depend on server-side route rewrites. [`404.html`](404.html) is only there to translate older `/idea/<idea-id>` links into the new query-string format on GitHub Pages.
 
 Each idea file uses this shape:
 
