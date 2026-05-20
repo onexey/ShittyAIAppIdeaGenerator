@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "file": "consumer-chaos.json",
+      "slug": "consumer-chaos",
+      "title": "Consumer Chaos"
+    },
+    {
+      "file": "enterprise-nightmares.json",
+      "slug": "enterprise-nightmares",
+      "title": "Enterprise Nightmares"
+    },
+    {
+      "file": "creator-schemes.json",
+      "slug": "creator-schemes",
+      "title": "Creator Schemes"
+    }
+  ]
+}

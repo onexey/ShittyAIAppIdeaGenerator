@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+
+# Editor settings and swap files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies and local package manager state
+node_modules/
+.npm/
+.pnpm-store/
+
+# Tooling caches and reports
+.cache/
+.parcel-cache/
+coverage/
+.eslintcache
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment files
+.env
+.env.*
+!.env.example

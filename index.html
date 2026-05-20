@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shitty AI App Idea Generator</title>
+    <meta
+      name="description"
+      content="A single-page GitHub Pages site that serves terrible AI startup ideas."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Bricolage+Grotesque:wght@500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <main class="page-shell">
+      <section class="hero-card">
+        <h1>Shitty AI App Idea Generator</h1>
+
+        <div class="idea-panel" aria-live="polite">
+          <blockquote id="idea-text" class="idea-text">Loading nonsense...</blockquote>
+        </div>
+
+        <div class="actions">
+          <button id="shuffle-button" class="shuffle-button" type="button">
+            Ruin another weekend
+          </button>
+          <button id="copy-button" class="copy-button" type="button">
+            Copy pitch
+          </button>
+        </div>
+
+        <p id="status" class="sr-only" role="status"></p>
+      </section>
+    </main>
+
+    <script src="./script.js" defer></script>
+  </body>
+</html>
