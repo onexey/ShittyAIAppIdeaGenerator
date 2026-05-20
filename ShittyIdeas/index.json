@@ -139,6 +139,106 @@
       "file": "climate-anxiety-commerce.json",
       "slug": "climate-anxiety-commerce",
       "title": "Climate Anxiety Commerce"
+    },
+    {
+      "file": "office-paranoia.json",
+      "slug": "office-paranoia",
+      "title": "Office Paranoia"
+    },
+    {
+      "file": "suburb-simulations.json",
+      "slug": "suburb-simulations",
+      "title": "Suburb Simulations"
+    },
+    {
+      "file": "apocalypse-premium.json",
+      "slug": "apocalypse-premium",
+      "title": "Apocalypse Premium"
+    },
+    {
+      "file": "therapy-marketplaces.json",
+      "slug": "therapy-marketplaces",
+      "title": "Therapy Marketplaces"
+    },
+    {
+      "file": "wedding-overclocked.json",
+      "slug": "wedding-overclocked",
+      "title": "Wedding Overclocked"
+    },
+    {
+      "file": "airport-occultism.json",
+      "slug": "airport-occultism",
+      "title": "Airport Occultism"
+    },
+    {
+      "file": "roommate-weaponization.json",
+      "slug": "roommate-weaponization",
+      "title": "Roommate Weaponization"
+    },
+    {
+      "file": "bureaucracy-engineering.json",
+      "slug": "bureaucracy-engineering",
+      "title": "Bureaucracy Engineering"
+    },
+    {
+      "file": "crypto-afterlife.json",
+      "slug": "crypto-afterlife",
+      "title": "Crypto Afterlife"
+    },
+    {
+      "file": "masculinity-analytics.json",
+      "slug": "masculinity-analytics",
+      "title": "Masculinity Analytics"
+    },
+    {
+      "file": "art-school-fraud.json",
+      "slug": "art-school-fraud",
+      "title": "Art School Fraud"
+    },
+    {
+      "file": "funeral-disruption.json",
+      "slug": "funeral-disruption",
+      "title": "Funeral Disruption"
+    },
+    {
+      "file": "influencer-taxonomy.json",
+      "slug": "influencer-taxonomy",
+      "title": "Influencer Taxonomy"
+    },
+    {
+      "file": "grandma-tech-stack.json",
+      "slug": "grandma-tech-stack",
+      "title": "Grandma Tech Stack"
+    },
+    {
+      "file": "legacy-chaos.json",
+      "slug": "legacy-chaos",
+      "title": "Legacy Chaos"
+    },
+    {
+      "file": "startup-cults.json",
+      "slug": "startup-cults",
+      "title": "Startup Cults"
+    },
+    {
+      "file": "vacation-resentment.json",
+      "slug": "vacation-resentment",
+      "title": "Vacation Resentment"
+    },
+    {
+      "file": "internet-brainworms.json",
+      "slug": "internet-brainworms",
+      "title": "Internet Brainworms"
+    },
+    {
+      "file": "service-industry-singularity.json",
+      "slug": "service-industry-singularity",
+      "title": "Service Industry Singularity"
+    },
+    {
+      "file": "conspiracy-commerce.json",
+      "slug": "conspiracy-commerce",
+      "title": "Conspiracy Commerce"
     }
   ]
 }
